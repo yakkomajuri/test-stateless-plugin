@@ -1,0 +1,8 @@
+{
+    "name": "Stateless Plugin",
+    "url": "https://github.com/yakkomajuri/test-stateless-plugin",
+    "description": "I don't do much.",
+    "main": "index.js",
+    "posthogVersion": ">= 1.25.0",
+    "stateless": true
+}
