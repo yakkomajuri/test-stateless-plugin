@@ -3,5 +3,5 @@ export function setupPlugin() {
 }
 
 export function onEvent(event) {
-    console.log(event)
+    console.log(event.team_id)
 }
